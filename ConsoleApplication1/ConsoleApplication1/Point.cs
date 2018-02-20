@@ -18,6 +18,7 @@ namespace ConsoleApplication1
 
             Console.SetCursorPosition(x, y);
             Console.Write( sym );
+            Console.Write(sym);
 
         }
     }
